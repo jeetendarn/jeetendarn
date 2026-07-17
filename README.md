@@ -80,11 +80,36 @@ Computer Vision Roles
 Technical Trainer Opportunities
 
 ---
+## 📊 GitHub Statistics
 
-Reach me
+![](https://github-readme-stats.vercel.app/api?username=jeetendarn&show_icons=true&theme=tokyonight)
 
-LinkedIn
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeetendarn&layout=compact&theme=tokyonight)
 
-Portfolio
+![](https://streak-stats.demolab.com?user=jeetendarn&theme=tokyonight)
 
-Email
+![](https://github-readme-activity-graph.vercel.app/graph?username=jeetendarn&theme=tokyo-night)
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+
