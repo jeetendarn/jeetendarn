@@ -1,23 +1,90 @@
-Animated Banner
+# Hi 👋 I'm Jeetendar
 
-Introduction
+AI Engineer | Python Backend Developer | Computer Vision Engineer
 
-About Me
+I build intelligent software using Artificial Intelligence, Machine Learning, Computer Vision and Python Backend technologies.
 
-Skills
+Currently focusing on
 
-Tech Stack
+• AI Security Systems
+• Digital Forensics
+• Computer Vision
+• Backend APIs
+• Automation
+• Edge AI
+• Large Language Models
 
-Featured Projects
+---
 
-GitHub Statistics
+## Tech Stack
 
-Current Learning
+Python
+FastAPI
+Flask
+OpenCV
+TensorFlow
+PyTorch
+Scikit-Learn
+SQL
+Power BI
+Docker
+Git
+GitHub
+Linux
+Odoo ERP
 
-Achievements
+---
 
-Connect with Me
-<!---
-jeetendarn/jeetendarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Featured Projects
+
+Enterprise AI SOC
+
+AI Sentinel Security Center
+
+Digital Forensics Platform
+
+Offline AI Assistant
+
+OCR Automation
+
+Power BI Dashboard
+
+---
+
+## Currently Learning
+
+Digital Forensics
+
+FastAPI
+
+Docker
+
+Cloud Deployment
+
+LLMs
+
+Threat Intelligence
+
+---
+
+Open to
+
+Remote Jobs
+
+Backend Roles
+
+AI Engineer Roles
+
+Computer Vision Roles
+
+Technical Trainer Opportunities
+
+---
+
+Reach me
+
+LinkedIn
+
+Portfolio
+
+Email
